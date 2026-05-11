@@ -1,11 +1,5 @@
 # ThisVid Bulk Video Downloader
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=JktcCqbuDVQ" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-thisvid-videos.jpg" width="700px">
-</a>
-
 👉 Get it Here: https://serp.ly/thisvid-bulk-video-downloader
 
 ## Bulk Download ThisVid Videos Faster
