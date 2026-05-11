@@ -87,6 +87,12 @@ The default workflow focuses on returning direct video URLs and metadata. That k
 
 Researchers, editors, collectors, agencies, developers, and anyone who needs to process ThisVid video URLs in bulk.
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=JktcCqbuDVQ" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-thisvid-videos.jpg" width="700px">
+</a>
+
 ## Get Started
 
 Use ThisVid Bulk Video Downloader here:
